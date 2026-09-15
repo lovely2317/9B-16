@@ -4,10 +4,10 @@ body{
 }
 
 ul{
-    list-style-type:none
+    list-style-type:none;
     margin: 0;
     padding: 0;
-    overlow: hidden;
+    overflow: hidden;
     background: navy;
     position: fixed;
     top: 0;
@@ -23,7 +23,7 @@ li a {
     color: white;
     text-align: center;
     padding: 14px 16px;
-    text-dexoration: none;
+    text-decoration: none;
 }
 
 li a:hover{
